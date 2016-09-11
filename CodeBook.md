@@ -1,7 +1,7 @@
 ##Code Book
 This code book summarizes the resulting data fields in tidyData.txt.The set of variables that were estimated from these signals that I used: mean(): Mean value std(): Standard deviation I create one R script called run_analysis.R. 
 
-Identifiers
+#Identifiers
 
 •	subject - The ID of the test subject.
 
