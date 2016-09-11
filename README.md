@@ -16,5 +16,5 @@ I originate a R script called run_analysis.R that does the following:
 
 6.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject which is called tidyData.txt.
 
-7.	 I create a Codebook that describes the variables in the data and the change that I made in order to clean up the data.
+7.	 Create a Codebook that describes the variables in the data and the change that I made in order to clean up the data.
 
